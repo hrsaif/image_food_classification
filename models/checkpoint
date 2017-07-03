@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/hs4589/Documents/workspace/cookpad_image_classification/sushi_or_sandwich/models/4layers_extended_25epochs.model"
+all_model_checkpoint_paths: "/Users/hs4589/Documents/workspace/cookpad_image_classification/sushi_or_sandwich/models/4layers_extended_25epochs.model"
